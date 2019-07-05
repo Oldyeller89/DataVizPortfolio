@@ -1,5 +1,6 @@
 # Daniel Lesser Data Visualization Portfolio
 Carnegie Mellon University - Telling Stories with Data 94-870
+
 Summer 2019
 
 ## About Me
