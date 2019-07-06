@@ -17,8 +17,12 @@ I am passionate about exploring data and informing business decision making thro
 
 ### Assignment 1: Visualizing British Politics
 
-[Labour](//www.datawrapper.de/_/m9N9s/)
-
 <iframe title="Labour Party Moving Left" aria-label="Bar Chart" id="datawrapper-chart-m9N9s" src="//datawrapper.dwcdn.net/m9N9s/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="265"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+Revised Graph:  I feel this graph is a slight improvement vs. the original, though there are a few things I would still change given the opportunity.  
+
+  1) I would focus the data more on change in 'likes' rather than looking at a static point in time. 
+  2) I would like to have a comparison of the Labour metrics + Corbyn against other political parties and leaders in Britain
+  3) I would consider including other social platforms and/or approval ratings to measure popularity.  
 
 Original Article Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
