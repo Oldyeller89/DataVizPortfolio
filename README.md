@@ -17,6 +17,6 @@ I am passionate about exploring data and informing business decision making thro
 
 ### Assignment 1: Visualizing British Politics
 
-![Labour](//www.datawrapper.de/_/m9N9s/)
+[Labour](//www.datawrapper.de/_/m9N9s/)
 
 Original Article Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
