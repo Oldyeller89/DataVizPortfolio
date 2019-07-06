@@ -22,7 +22,9 @@ I am passionate about exploring data and informing business decision making thro
 Revised Graph:  I feel this graph is a slight improvement vs. the original, though there are a few things I would still change given the opportunity.  
 
   1) I would focus the data more on change in 'likes' rather than looking at a static point in time. 
-  2) I would like to have a comparison of the Labour metrics + Corbyn against other political parties and leaders in Britain
+  
+  2) I would like to have a comparison of the Labour metrics + Corbyn against other political parties and leaders in Britain.
+  
   3) I would consider including other social platforms and/or approval ratings to measure popularity.  
 
 Original Article Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
