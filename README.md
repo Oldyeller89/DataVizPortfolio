@@ -28,3 +28,8 @@ Revised Graph:  I feel this graph is a slight improvement vs. the original, thou
   3) I would consider including other social platforms and/or approval ratings to measure popularity.  
 
 Original Article Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
+
+### Assignment 1: Good Charts Chapter 1 Sketching
+
+![Sketching_1](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/GoodCharts_Exercise_Chap1_1.jpg)
+![Sketching_2](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/GoodCharts_Exercise_Chap1_2.jpg)
