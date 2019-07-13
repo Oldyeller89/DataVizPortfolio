@@ -33,3 +33,8 @@ Original Article Source: “The Metamorphosis.” The Economist, August 13, 2016
 
 ![Sketching_1](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/GoodCharts_Exercise_Chap1_1.jpg)
 ![Sketching_2](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/GoodCharts_Exercise_Chap1_2.jpg)
+
+### Assignment 2: Good Charts Chapter 2 Sketching
+
+![Sketching_1](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/GoodCharts_ex_chap2_1.jpg)
+![Sketching_2](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/GoodCharts_ex_chap2_2.jpg)
