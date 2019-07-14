@@ -38,3 +38,10 @@ Original Article Source: “The Metamorphosis.” The Economist, August 13, 2016
 
 ![Sketching_1](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/GoodCharts_ex_chap2_1.jpg)
 ![Sketching_2](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/GoodCharts_ex_chap2_2.jpg)
+
+### Assignment 2: OIG Newspaper Version
+
+<div class="infogram-embed" data-id="dd0d0b31-f83d-495d-aedf-ad79ac94ab18" data-type="interactive" data-title="DHS_Assignment2"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/dd0d0b31-f83d-495d-aedf-ad79ac94ab18" style="color:#989898!important;text-decoration:none!important;" target="_blank">DHS_Assignment2</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+### Assignment 2: OIG Report Version
+
