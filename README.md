@@ -81,5 +81,5 @@ I would say the chart’s aesthetics are average.  Its simplicity means that it 
 
 I think a very specific audience (those affected by pregnancy) are likely to be drawn into the data which makes it seem like a big issue, particularly for Blacks and older individuals.  This may inspire more dialogue on the issue as the chart is easily accessible.  However, it doesn’t show a lot and a bit more context may help drive engagement.
 
-![Reworked Graphic](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/Pregnancy_Reworked.png)
+![Reworked Graphic](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/Pregnancy_Reworked2.png)
 
