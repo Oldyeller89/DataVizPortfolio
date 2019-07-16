@@ -61,7 +61,7 @@ After reviewing the [Infogram](https://cdn2.hubspot.net/hubfs/521303/Gated%20con
 
 ### Assignment 2: Data Visualization Critique #2
 
-![Original Graphic](https://viz.wtf/image/185134001896)
+![Original Graphic](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/pregnancy_original.jpg)
 
 My Comments:
 
