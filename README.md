@@ -84,6 +84,12 @@ I think a very specific audience (those affected by pregnancy) are likely to be 
 
 ![Reworked Graphic](https://raw.githubusercontent.com/Oldyeller89/DataVizPortfolio/master/Pregnancy_Reworked2.png)
 
+### Assignment 2 OECD
+
+[Link to Assignment](/Assignment2_OECD.md)
+
 ### Project Part 1
 
-[Link to Project Part 1 Outline](https://github.com/Oldyeller89/DataVizPortfolio/blob/master/project_part1.md)
+[Link to Project Part 1 Outline](/project_part1.md)
+
+
