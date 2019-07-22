@@ -19,4 +19,8 @@ Because this is an atypical topic, data for this project will be coming from a m
 
 For this project, I intend to utilize the shorthand software to build my story.  The presentation will be a combination of words, images, graphs, charts, animations and suggestions to the reader.  I hope to keep the amount of text to a minimum so the reader can experience the story through the images and the data.  This should help keep the visualization fresh and easily accessible.  The user will scroll through the story arc that I described above, leaving with a sense of purpose and newfound interest in the night sky.  
 
+#### First Draft Sketches
+
+![Sketches](https://github.com/Oldyeller89/DataVizPortfolio/blob/master/ProjectPart1Sketches/SCN_0008.pdf)
+
 [Link to Github Page](https://oldyeller89.github.io/DataVizPortfolio/) 
