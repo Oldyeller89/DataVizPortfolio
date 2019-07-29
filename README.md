@@ -109,6 +109,11 @@ I chose to recreate this plot on the http://apps.rawgraphs.io website.  The data
 
 I felt the chart choices on the rawgraphs website to be a bit lacking.  There are a few additional changes I would consider making given the choice to use a different platform.  First, I would significantly pare back the amount of data shown.  I don't feel all of these countries are necessary to be on the chart.  Because we are showing so many countries, I had to make the chart height very large so as not to lose the definition of changes in the ratio.  I also feel a simple line chart may be more effective than an area or beeswarm.  Finally, a scale on just the first country may be helpful to understand the magnitude of the ratios.
 
+### Chapter 3 Sketches
+
+![1](chap3_1.jpeg)
+![2](chap3_2.jpeg)
+
 ### Project Part 1
 
 [Link to Project Part 1 Outline](/project_part1.md)
