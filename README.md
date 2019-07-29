@@ -118,4 +118,8 @@ I felt the chart choices on the rawgraphs website to be a bit lacking.  There ar
 
 [Link to Project Part 1 Outline](/project_part1.md)
 
+### Chapter 4 Sketches
+
+![1](chap4_1.pdf)
+
 
