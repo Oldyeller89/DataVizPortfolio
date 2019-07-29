@@ -120,6 +120,10 @@ I felt the chart choices on the rawgraphs website to be a bit lacking.  There ar
 
 ### Chapter 4 Sketches
 
-![1](chap4_1.pdf)
+![1](chap4_1-page-001.jpg)
+![2](chap4_1-page-002.jpg)
+![3](chap4_1-page-003.jpg)
+![4](chap4_1-page-004.jpg)
+![5](chap4_1-page-005.jpg)
 
 
