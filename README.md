@@ -268,3 +268,17 @@ Interviewee #3
 8.	Any other feedback?
 
     a.	The map chart at the end.  Can you put in the Tableau interactive piece?
+
+##### Changes Implemented
+
+1. Edited the charts to make the font larger and more readable.  Unfortunately shorthand doesn't permit me more space to enlarge the charts.
+
+2. Edited the timeline charts to make it clearer that these are sequential / not the exact same time periods.
+
+3. Cut out the 2nd history image and reduced the text so as to have a better balance in the overall presentation.
+
+4. Added headers / clearer separations of the sections.
+
+5. Adjusted the format of the presentation so that the sections flowed into each other smoothly.
+
+6. Adjusted the donut chart colors.
