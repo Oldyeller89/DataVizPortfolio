@@ -238,34 +238,33 @@ Interviewee #2
 Interviewee #3
 1.	First Impressions
 
-    a.	x
+    a.	Overall liked it a lot.  Good start: visual/impactful.  Felt like there were specific sections (History...)  Jumpy to wildlife and then to human health.  Header would help.  Maybe have everything fade or everything be its own block.  Pictures jumpy.
     
 2.	Core objective of the storyboard
 
-    a.	x
+    a.	Get people to reduce their light usage at night
     
 3.	Was the messaging consistent?
 
-    a.	x
+    a.	Yes, definitely.
+    b.  The cartoony picture didn't fit.
     
 4.	Was the Layout appropriate?
 
-    a.	x
+    a.	Layout was conducive, particularly the intro.  See earlier comments about jumping between sections.
     
 5.	Did the Data Visualizations contribute to the story?  
 
-    a.	x
+    a.	Yes.
     
 6.	Were the Data Visualizations clear?
 
-    a.	x
-    
-    b.	x
+    a.  Can I make them bigger.  Hard to figure out with text size.  Particularly 2 time series charts.
     
 7.	Was there any Missing information you would like to see?
 
-    a.	x
+    a.	Weight distribution on the early stuff felt a bit heavy vs. current impacts.  Maybe cut the 2nd history image.
     
 8.	Any other feedback?
 
-    a.	x
+    a.	The map chart at the end.  Can you put in the Tableau interactive piece?
