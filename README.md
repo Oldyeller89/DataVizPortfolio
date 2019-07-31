@@ -160,62 +160,112 @@ I felt the chart choices on the rawgraphs website to be a bit lacking.  There ar
 ##### Interview Findings
 Interviewee #1
 1.	First Impressions
+
     a.	Impressive statistics and story.  This is a topic I didn’t know much about before.
+    
 2.	Core objective of the storyboard
+
     a.	To inform me of a problem.  That light pollution is an issue and there are steps I can take to prevent it, help the world and my own health.
+    
 3.	Was the messaging consistent?
+
     a.	Yes, I felt it was.  There was some history up-front and then some more modern discussion of the topic.  However, I felt that I would have gotten the same result if the history wasn’t there.  For those with less time, it may not be necessary.
+    
 4.	Was the Layout appropriate?
+
     a.	It made sense to me and seemed to work.  However, the graphs were too small.
 5.	Did the Data Visualizations contribute to the story?  
+
     a.	The charts were generally too small.  They helped the story.  I felt you could go a bit deeper on the eBook data.  The REM sleep chart didn’t seem to be that different to me, so maybe highlight the difference in eBook vs. paperback.
-6.	Were the Data Visualization clear?
-    a.	See comments in #5
-    b.	The map at the end was not super clear what I was looking at.  Make it clearer that these are national parks / places to go to see the night sky.
-    c.	The donut colors could be adjusted
+    
+6.	Were the Data Visualizations clear?
+    
+    a.	The map at the end was not super clear what I was looking at.  Make it clearer that these are national parks / places to go to see the night sky.
+    
+    b.	The donut colors could be adjusted
+    
 7.	Was there any Missing information you would like to see?
+
     a.	You mentioned cancer as a health impact, so I might want to see the data behind that.
+    
 8.	Any other feedback?
+
     a.	Can you make any predictions?
     
 Interviewee #2
 1.	First Impressions
+
     a.	Overall I liked it, thought it told a good story
+    
 2.	Core objective of the storyboard
+
     a.	I thought the goal was to raise awareness about the growth of light pollution and its effects.
+    
 3.	Was the messaging consistent?
+
     a.	I think I missed the transitions a bit between history to modern day as well as the transition from wildlife impacts to human impacts.  You could make that a bit more explicit.
+    
 4.	Was the Layout appropriate?
+
     a.	I liked the dark theme and the changes in pictures.  
+    
     b.  Perhaps don't have all of the text on the left hand side.
-5.	Did the Data Visualizations contribute to the story?  
+    
+5.	Did the Data Visualizations contribute to the story? 
+
     a.	Overall I felt they were great.
+    
     b.  I felt the arrow chart was very clear and powerful.
-6.	Were the Data Visualization clear?
+    
+6.	Were the Data Visualizations clear?
+
     a.	Some of the colors were inconsistent betwen charts.
+    
     b.	For the time series charts, it might help to make it more apparent that they don't cover the same time periods.
+    
     c.  Make the text bigger in the charts.
+    
     d.  I found the rose chart a bit confusing/busy.
+    
 7.	Was there any Missing information you would like to see?
+
     a.	No.  There was good context and action items.
+    
 8.	Any other feedback?
+
     a.	Nope.
 
 Interviewee #3
 1.	First Impressions
+
     a.	x
+    
 2.	Core objective of the storyboard
+
     a.	x
+    
 3.	Was the messaging consistent?
+
     a.	x
+    
 4.	Was the Layout appropriate?
+
     a.	x
+    
 5.	Did the Data Visualizations contribute to the story?  
+
     a.	x
-6.	Were the Data Visualization clear?
+    
+6.	Were the Data Visualizations clear?
+
     a.	x
+    
     b.	x
+    
 7.	Was there any Missing information you would like to see?
+
     a.	x
+    
 8.	Any other feedback?
+
     a.	x
